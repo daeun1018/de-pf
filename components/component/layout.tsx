@@ -33,7 +33,7 @@ export function Layout() {
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">Zara Wilkins</h1>
                 <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Crafting Captivating Game Concepts: Zara's Journey as a Visionary Designer
+                  Crafting Captivating Game Concepts: Zaras Journey as a Visionary Designer
                 </p>
               </div>
             </div>
@@ -53,7 +53,7 @@ export function Layout() {
             <div className="space-y-2">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Game Concept Art Gallery</h2>
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                Explore Zara's captivating game concept art, showcasing her exceptional talent and creativity.
+                Explore Zaras captivating game concept art, showcasing her exceptional talent and creativity.
               </p>
             </div>
           </div>
@@ -115,7 +115,7 @@ export function Layout() {
             <p className="max-w-[600px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
               Her attention to detail, combined with a deep understanding of game mechanics and player psychology,
               allows Zara to develop concept art that not only looks stunning but also enhances the overall gameplay
-              experience. Zara's work has been featured in numerous industry publications and has garnered praise from
+              experience. Zaras work has been featured in numerous industry publications and has garnered praise from
               developers and gamers alike.
             </p>
           </div>
