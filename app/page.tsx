@@ -22,25 +22,28 @@ export default function Home() {
 
 
       <section className="w-full py-12 md:py-16 lg:py-20">
-        <div className="container mx-auto max-w-screen-xl px-4 md:px-6">
-          <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
-            <div className="flex flex-col justify-center space-y-4">
-              <div className="space-y-2">
-                <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-white">김다은 | Kim Daeun</h1>
-                <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400 text-white">
-                  게임 그래픽 디자이너 (email : kimdayen25@gmail.com)</p>
-              </div>
-            </div>
-            <img
-              alt="Kim daeun"
-              className="mx-auto aspect-square overflow-hidden rounded-xl object-cover sm:w-full lg:order-last"
-              height="1000px"
-              src="/리치.jpg"
-              width="1000px"
-            />
-          </div>
+  <div className="container mx-auto max-w-screen-xl px-4 md:px-6">
+    <div className="grid gap-6 lg:grid-cols-[1fr_400px] lg:gap-12 xl:grid-cols-[1fr_600px]">
+      <div className="flex flex-col justify-center space-y-4">
+        <div className="space-y-2">
+          <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none text-white">김다은 | Kim Daeun</h1>
+          <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400 text-white">
+            게임 그래픽 디자이너<br />
+            email: <a href="mailto:kimdayen25@gmail.com" className="text-blue-400">kimdayen25@gmail.com</a>
+          </p>
         </div>
-      </section>
+      </div>
+      <img
+        alt="Kim daeun"
+        className="mx-auto aspect-square overflow-hidden rounded-xl object-cover sm:w-full lg:order-last"
+        height="1000px"
+        src="/리치.jpg"
+        width="1000px"
+      />
+    </div>
+  </div>
+</section>
+
 
       <section className="w-full py-12 md:py-24 lg:py-32 flex justify-center" id="작업물">
         <div className="container px-4 md:px-6">
