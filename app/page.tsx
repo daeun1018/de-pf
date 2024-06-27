@@ -9,8 +9,8 @@ export default function Home() {
 
       <header className="px-4 lg:px-6 h-14 flex items-center bg-black text-white">
         <a href="#" className="flex items-center justify-center">
-          <title>김다은 포트폴리오</title>
-          <span className="sr-only">김다은 포트폴리오</span>
+          <title>김다은의 포트폴리오</title>
+          <span className="sr-only">김다은의 포트폴리오</span>
         </a>
         <nav className="ml-auto flex gap-4 sm:gap-6">
           <a href="#" className="text-30 font-medium hover:underline underline-offset-4">홈</a>
